@@ -1,0 +1,33 @@
+# Visual Studio files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet packages
+*.nupkg
+
+# Node.js
+node_modules/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
